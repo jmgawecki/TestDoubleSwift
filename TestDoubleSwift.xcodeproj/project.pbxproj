@@ -17,6 +17,7 @@
 		EF2965B0260F863500EF0834 /* TestDoubleSwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF2965AF260F863500EF0834 /* TestDoubleSwiftUITests.swift */; };
 		EF2965C8260F870000EF0834 /* App.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF2965C7260F870000EF0834 /* App.swift */; };
 		EF2965CD260F875900EF0834 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF2965CC260F875900EF0834 /* User.swift */; };
+		EF29660F2610B0D100EF0834 /* Twitter.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF29660E2610B0D100EF0834 /* Twitter.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		EF2965B1260F863500EF0834 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EF2965C7260F870000EF0834 /* App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = App.swift; sourceTree = "<group>"; };
 		EF2965CC260F875900EF0834 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		EF29660E2610B0D100EF0834 /* Twitter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Twitter.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -162,6 +164,7 @@
 			children = (
 				EF2965C7260F870000EF0834 /* App.swift */,
 				EF2965CC260F875900EF0834 /* User.swift */,
+				EF29660E2610B0D100EF0834 /* Twitter.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -297,6 +300,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EF296592260F863400EF0834 /* ViewController.swift in Sources */,
+				EF29660F2610B0D100EF0834 /* Twitter.swift in Sources */,
 				EF2965C8260F870000EF0834 /* App.swift in Sources */,
 				EF29658E260F863400EF0834 /* AppDelegate.swift in Sources */,
 				EF2965CD260F875900EF0834 /* User.swift in Sources */,
